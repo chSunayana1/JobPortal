@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Board</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Firebase -->
+    <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-auth-compat.js"></script>
+
+    <!-- EmailJS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+    <!-- External JS -->
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Job Board</h1>
+        <a href="#login-form">login</a>
+        <!-- Login Button -->
+
+        <div id="profile-section" style="display: none;">
+            <div id="profile-circle"></div>
+            <button id="logout-btn" onclick="logout()">Logout</button>
+        </div>
+    </header>
+
+    <div class="search-filter">
+        <input type="text" id="search" placeholder="Search jobs...">
+        <select id="filter-location">
+            <option value="">Location</option>
+            <option value="Remote">Remote</option>
+            <option value="On-Site">On-Site</option>
+        </select>
+        <select id="filter-type">
+            <option value="">Job Type</option>
+            <option value="Full-time">Full-time</option>
+            <option value="Part-time">Part-time</option>
+        </select>
+        <button id="sort">Sort by Salary</button>
+    </div>
+
+    <div id="job-listings"></div>
+
+    <div id="job-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="job-title"></h2>
+            <p id="job-details"></p>
+            <button id="apply-btn">Apply</button>
+        </div>
+    </div>
+
+    <div id="notifications" class="notifications"></div>
+
+    <!-- Login & Register Forms -->
+    
+    <div id="login-form">
+        <h2>Login</h2>
+        <input type="email" id="email" placeholder="Email">
+        <input type="password" id="password" placeholder="Password">
+        <button onclick="loginWithEmail()">Login</button>
+        <button onclick="loginWithGoogle()">Login with Google</button>
+        <p>Don't have an account? <a href="#login-form" onclick="toggleAuthMode()">Sign up here</a></p>
+    </div>
+
+    <div id="register-form" style="display: none;">
+        <h2>Register</h2>
+        <input type="email" id="register-email" placeholder="Email">
+        <input type="password" id="register-password" placeholder="Password">
+        <button onclick="registerWithEmail()">Register</button>
+        <p>Already have an account? <a href="#login-form" onclick="toggleAuthMode()">Login here</a></p>
+    </div>
+
+    
+
+
+    <script>
+        function toggleProfileMenu() {
+            const menu = document.getElementById("profile-menu");
+            menu.style.display = menu.style.display === "block" ? "none" : "block";
+        }
+    </script>
+</body>
+</html>

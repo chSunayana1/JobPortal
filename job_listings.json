@@ -1,0 +1,2402 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 105000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 120000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 135000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 150000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 165000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 180000,
+        "details": "Work on hardware engineer related tasks and projects."
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 60000,
+        "details": "Work on software engineer related tasks and projects."
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataMinds",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 75000,
+        "details": "Work on data analyst related tasks and projects."
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "CloudScape",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 90000,
+        "details": "Work on cloud engineer related tasks and projects."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 105000,
+        "details": "Work on machine learning engineer related tasks and projects."
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "WebGenius",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 120000,
+        "details": "Work on frontend developer related tasks and projects."
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "OpsWorks",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 135000,
+        "details": "Work on devops engineer related tasks and projects."
+    },
+    {
+        "title": "Business Analyst",
+        "company": "BizTech",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 150000,
+        "details": "Work on business analyst related tasks and projects."
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 165000,
+        "details": "Work on cybersecurity analyst related tasks and projects."
+    },
+    {
+        "title": "Database Administrator",
+        "company": "DataGuard",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 180000,
+        "details": "Work on database administrator related tasks and projects."
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "InnovateAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 60000,
+        "details": "Work on ai research scientist related tasks and projects."
+    },
+    {
+        "title": "Backend Developer",
+        "company": "CodeCrafters",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 75000,
+        "details": "Work on backend developer related tasks and projects."
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "CyberShield",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 90000,
+        "details": "Work on full stack developer related tasks and projects."
+    },
+    {
+        "title": "IT Support Specialist",
+        "company": "VisionaryTech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 105000,
+        "details": "Work on it support specialist related tasks and projects."
+    },
+    {
+        "title": "QA Engineer",
+        "company": "InnoSoft",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 120000,
+        "details": "Work on qa engineer related tasks and projects."
+    },
+    {
+        "title": "Network Engineer",
+        "company": "ByteLogic",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 135000,
+        "details": "Work on network engineer related tasks and projects."
+    },
+    {
+        "title": "Security Engineer",
+        "company": "SoftSolutions",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 150000,
+        "details": "Work on security engineer related tasks and projects."
+    },
+    {
+        "title": "Systems Administrator",
+        "company": "QuantumSoft",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 165000,
+        "details": "Work on systems administrator related tasks and projects."
+    },
+    {
+        "title": "Product Manager",
+        "company": "DigitalFort",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 180000,
+        "details": "Work on product manager related tasks and projects."
+    },
+    {
+        "title": "UX/UI Designer",
+        "company": "CloudMasters",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 60000,
+        "details": "Work on ux/ui designer related tasks and projects."
+    },
+    {
+        "title": "Technical Writer",
+        "company": "CodeFusion",
+        "location": "On-Site",
+        "type": "Part-time",
+        "salary": 75000,
+        "details": "Work on technical writer related tasks and projects."
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TechBridge",
+        "location": "Hybrid",
+        "type": "Contract",
+        "salary": 90000,
+        "details": "Work on data scientist related tasks and projects."
+    },
+    {
+        "title": "Blockchain Developer",
+        "company": "NextGenAI",
+        "location": "Remote",
+        "type": "Internship",
+        "salary": 105000,
+        "details": "Work on blockchain developer related tasks and projects."
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "DataSphere",
+        "location": "On-Site",
+        "type": "Full-time",
+        "salary": 120000,
+        "details": "Work on embedded systems engineer related tasks and projects."
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "company": "SecureTech",
+        "location": "Hybrid",
+        "type": "Part-time",
+        "salary": 135000,
+        "details": "Work on computer vision engineer related tasks and projects."
+    },
+    {
+        "title": "NLP Engineer",
+        "company": "NeuralNet",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 150000,
+        "details": "Work on nlp engineer related tasks and projects."
+    },
+    {
+        "title": "Game Developer",
+        "company": "BlueSky Innovations",
+        "location": "On-Site",
+        "type": "Internship",
+        "salary": 165000,
+        "details": "Work on game developer related tasks and projects."
+    },
+    {
+        "title": "BI Analyst",
+        "company": "AI Pioneers",
+        "location": "Hybrid",
+        "type": "Full-time",
+        "salary": 180000,
+        "details": "Work on bi analyst related tasks and projects."
+    },
+    {
+        "title": "IT Consultant",
+        "company": "AgileData",
+        "location": "Remote",
+        "type": "Part-time",
+        "salary": 60000,
+        "details": "Work on it consultant related tasks and projects."
+    },
+    {
+        "title": "Site Reliability Engineer",
+        "company": "CodeBlazers",
+        "location": "On-Site",
+        "type": "Contract",
+        "salary": 75000,
+        "details": "Work on site reliability engineer related tasks and projects."
+    },
+    {
+        "title": "Hardware Engineer",
+        "company": "DeepMindX",
+        "location": "Hybrid",
+        "type": "Internship",
+        "salary": 90000,
+        "details": "Work on hardware engineer related tasks and projects."
+    }
+]
